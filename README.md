@@ -1,17 +1,18 @@
 # NEON CODE
-`LIST PROJEK`
+
+## `LIST PROJEK`
 just portofolio
 
 #plan first step 
 1. Front End dan Admin Page
-    a. Fitur List Projek
-    b. Fitur Blog
-    c. Fitur List Team
-    d. Fitur Login
+    * Fitur List Projek
+    * Fitur Blog
+    * Fitur List Team
+    * Fitur Login
 2. backend name 
-    a. Fitur API Blog 
-    b. Fitur API Projek
-    c. Fitur API Team
-    d. Fitur Login
+    * Fitur API Blog 
+    * Fitur API Projek
+    * Fitur API Team
+    * Fitur Login
 
 Kalau kurang mengerti silahkan tanya di WA dan juga DI DISCORD
